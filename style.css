@@ -1,0 +1,28 @@
+#main{
+    text-align: center;
+    margin-top: 40px;
+   }
+   #email{
+       width:  400px;
+       margin-top: 20px;
+   }
+   #fullName{
+    width: 400px;
+   }
+   #gender{
+width: 400px;
+   }
+   .email{
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+   }
+   #password{
+    width: 400px;
+   }
+   .container{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-radius: 6px;
+   }
